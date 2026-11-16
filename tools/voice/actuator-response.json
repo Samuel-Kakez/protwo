@@ -1,0 +1,109 @@
+{
+ "note": "Loudness of a full-amplitude tone at each pitch, in dB relative to the microphone's full scale. Measured on 2026-11-16 with a fifine microphone next to the controller, sweeping each of the four tone slots (two actuators, two bands each); the two bands of an actuator measured alike. Each value is the loudest of the four slots and of the neighbouring pitches, which removes the narrow dips that echoes cause at the microphone. Below 300 Hz the values are from a single slot.",
+ "tones": [
+  {
+   "hz": 120,
+   "db": -54.6
+  },
+  {
+   "hz": 151,
+   "db": -57.3
+  },
+  {
+   "hz": 190,
+   "db": -59
+  },
+  {
+   "hz": 240,
+   "db": -55.5
+  },
+  {
+   "hz": 269,
+   "db": -58
+  },
+  {
+   "hz": 300,
+   "db": -43.7
+  },
+  {
+   "hz": 337,
+   "db": -34.2
+  },
+  {
+   "hz": 378,
+   "db": -34.2
+  },
+  {
+   "hz": 424,
+   "db": -34.2
+  },
+  {
+   "hz": 476,
+   "db": -36
+  },
+  {
+   "hz": 534,
+   "db": -38.9
+  },
+  {
+   "hz": 600,
+   "db": -36
+  },
+  {
+   "hz": 673,
+   "db": -36
+  },
+  {
+   "hz": 756,
+   "db": -36
+  },
+  {
+   "hz": 848,
+   "db": -36.7
+  },
+  {
+   "hz": 952,
+   "db": -36.7
+  },
+  {
+   "hz": 1069,
+   "db": -35.8
+  },
+  {
+   "hz": 1199,
+   "db": -35.8
+  },
+  {
+   "hz": 1346,
+   "db": -35.8
+  },
+  {
+   "hz": 1511,
+   "db": -43.7
+  },
+  {
+   "hz": 1696,
+   "db": -46.4
+  },
+  {
+   "hz": 1904,
+   "db": -50.7
+  },
+  {
+   "hz": 2137,
+   "db": -51.4
+  },
+  {
+   "hz": 2399,
+   "db": -48.4
+  },
+  {
+   "hz": 2693,
+   "db": -48.3
+  },
+  {
+   "hz": 3022,
+   "db": -48.3
+  }
+ ]
+}
